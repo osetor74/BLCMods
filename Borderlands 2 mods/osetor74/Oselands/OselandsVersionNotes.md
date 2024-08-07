@@ -30,6 +30,10 @@
 		- Other gun with no sight: -85%
 		- Other gun with a sight: -110%
 
+		*This is further affected by the previous change increasing base player speed, meaning that, while aiming down
+		 the sights with an AR (for example) that has a sight part, you'll be moving about 70% quicker while aiming than
+   		 before
+
 	- Axton
 
  		- Grenadier
