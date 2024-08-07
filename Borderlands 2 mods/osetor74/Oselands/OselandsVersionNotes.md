@@ -1,4 +1,41 @@
 
+=============== [ 1.2.9 ] ===============
+
+	- Shield Base Stat fix
+
+ 		- Previously, bonuses to base shield stats granted from rarity and parts on shields were Scale bonuses,
+   		  meaning they are additive to bonuses from skills and other items, making the actual final shield amount
+       		  on your character inconsistent/unintuitive.
+
+    		- Now all bonuses to these stats from rarity, parts and unique-specific bonuses are multiplicative with
+      		  bonuses from skills and other items. This affects all 3 main shield stats (Capacity, Recharge Rate & Delay)
+
+   		*This can be both a nerf and a buff based shield. For example, larger capacity shields will have even higher
+     		 values, and lower capacity shields will have even lower values.
+
+	- Grenade Rework
+
+ 		- Base grenade capacity is now 18, increasing by 6 per black market upgrade (max of 60)
+   		- Regenerate 1 grenade per second. Can be increased with Grenade Recharge Rate.
+		- Grenade pickups now grant you 6 grenades.
+
+     		- Each grenade now has a grenade cost associated with them, consuming multiple grenades from your pool.
+
+
+	- Axton
+
+ 		- Grenadier
+   			- Now grants 7% increased Grenade Recharge Rate per point, instead of previous effects
+
+	- Maya
+
+ 		- Added new skill to tier 1 in Harmony: Spirit
+   			- Grants 5% Action Skill Cooldown Rate and 3% Grenade Recharge Rate
+
+      		- Quicken
+			- Now grants 4% Movement Speed and 7% Weapon Swap Speed per point, instead of previous effects
+
+
 =============== [ 1.2.8 ] ===============
 
 	- Previous Badass Rank difficulty toggle replaced with *Delirium*:
