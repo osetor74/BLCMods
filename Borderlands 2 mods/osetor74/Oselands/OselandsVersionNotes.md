@@ -27,7 +27,7 @@
 	- Speed penalties for aiming down guns has been reduced from the universal -200% to the following:
 		- Pistol with no sight: -65%
   		- Pistol with a sight: -80%
-    		- Other gun with no sight: -85%
+		- Other gun with no sight: -85%
 		- Other gun with a sight: -110%
 
 	- Axton
