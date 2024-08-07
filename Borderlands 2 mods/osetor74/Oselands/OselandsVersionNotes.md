@@ -28,7 +28,7 @@
 		- Pistol with no sight: -65%
   		- Pistol with a sight: -80%
     		- Other gun with no sight: -85%
-      		- Other gun with a sight: -110%
+		- Other gun with a sight: -110%
 
 	- Axton
 
