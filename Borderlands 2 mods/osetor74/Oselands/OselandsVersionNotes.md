@@ -37,20 +37,26 @@
 
 	- Loot Changes
 
-	 	- The point at which white items stop dropping has been moved from level 12 to 7.
-		  This now also applies to items from vending machines.
-	  		*The intention is so that once you beat Captain Flynt and make it off of the glacier, items you'll get for the
-			rest of the game will always be green rarity or higher.
 
 		- Base Common Weight reduced down from 60 to 40
-		- Base Uncommon Weight increased from 10 to 20
+		- Base Uncommon Weight increased from 10 to 16
 		- Base Rare Weight increased from 1 to 5
   		- Base Very Rare Weight increased from 0.25 to 0.75
 
+		- The point at which white-rarity items stopped dropping has instead been changed to reduce Common weight for item
+  		  drops to 10% of the weight's original value, meaning they will still be able to drop, but hopefully not often
+      		  enough to feel annoying.
+   
+		- The levels mentioned above and their effects now also applies to items from vending machines.
+  
+	  		*The intention is so that once you beat Captain Flynt and make it off of the glacier, items you'll get for the
+			rest of the game will always be green rarity or higher.
+
+
 		- Modifier applied previously only to Very Common and Common weights to reduce their value at higher levels is now even
-  		  more apparent (previously stopped at 50% of original value at level 80, now it's 10%, and 0% once you enter OP Levels),
-		  and also applies to Uncommon weight.
-			*this means that loot quality also now increases with level again, causing you to see less and less green rarity
+  		  more apparent (previously stopped at 50% of original value at level 80, now it's 10%), and also applies to
+		  Uncommon weight.
+			*this means that loot quality also now increases with level again, causing you to see less and less lower rarity
 	 		 items at higher levels
 
 		- More of raid bosses' additional legendary drops now scale along with the legendary weight
