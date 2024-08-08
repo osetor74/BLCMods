@@ -43,9 +43,11 @@
 		- Base Rare Weight increased from 1 to 5
   		- Base Very Rare Weight increased from 0.25 to 0.75
 
-		- The point at which white-rarity items stopped dropping has instead been changed to reduce Common weight for item
-  		  drops to 10% of the weight's original value, meaning they will still be able to drop, but hopefully not often
-      		  enough to feel annoying.
+		- The point at which white-rarity items stopped dropping has been moved from level 12 to 7, and has also instead
+		  been changed to reduce Common weight for item drops to 10% of the weight's original value, meaning they will
+		  still be able to drop, but hopefully not often enough to feel annoying.
+
+		- The point at which white-rarity items stopped dropping has been reworked 
    
 		- The levels mentioned above and their effects now also applies to items from vending machines.
   
