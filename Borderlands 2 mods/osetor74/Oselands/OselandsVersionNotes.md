@@ -60,9 +60,9 @@
    		- Each Delirium stack now grants:
 			- +1.5 enemy Global Damage (Previously 3%)
    			- +2% enemy Damage Reduction (Previously 3%)
-      			- +3% enemy Fire Rate (unchanged)
+			- +3% enemy Fire Rate (unchanged)
 	 		- +3% enemy Movement Speed (unchanged)
-      			- -5% Uncommon weight
+			- -5% Uncommon weight
 			- +0.5% Rare weight
 			- +3% Very Rare weight
    			- +2.5% Legendary weight
