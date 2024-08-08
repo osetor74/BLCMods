@@ -56,7 +56,7 @@
 
 		- Internal bonuses from Delirium stacks has been reworked and rebalanced, now they work as such:
   			- -5% Uncommon weight
-     			- +0.5% Rare weight
+			- +0.5% Rare weight
 			- +3% Very Rare weight
    			- +2.5% Legendary weight
   
