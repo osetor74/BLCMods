@@ -19,7 +19,7 @@
    		- Regenerate 1 grenade per second. Can be increased with Grenade Recharge Rate.
 		- Grenade pickups now grant you 6 grenades.
 
-     		- Each grenade now has a grenade cost associated with them, consuming multiple grenades from your pool.
+		- Each grenade now has a grenade cost associated with them, consuming multiple grenades from your pool.
 
 
  	- Base player ground speed changed to 520, and sprinting multiplier to 1.2x (previously 440 and 1.2x respectively)
@@ -38,23 +38,23 @@
 	- Loot Changes
 
 	 	- The point at which white items stop dropping has been moved from level 12 to 6.
-	  		*The intention is so that once you beat Captain Flynt and make it off of the glacier, items you'll get for the rest
-			 of the game will always be green rarity or higher.
+	  		*The intention is so that once you beat Captain Flynt and make it off of the glacier, items you'll get for the
+			rest of the game will always be green rarity or higher.
 
-    		- Base Common Weight reduced down from 60 to 40
-      		- Base Uncommon Weight increased from 10 to 20
+		- Base Common Weight reduced down from 60 to 40
+		- Base Uncommon Weight increased from 10 to 20
 		- Base Rare Weight increased from 1 to 5
   		- Base Very Rare Weight increased from 0.25 to 0.75
 
 		- Modifier applied previously only to Very Common and Common weights to reduce their value at higher levels is now even more
-  		  apparent (previously stopped at 50% of original value at level 80, now it's 10%, and 0% once you enter OP Levels), and also
-      		  applies to Uncommon weight.
-      			*this means that loot quality also now increases with level again, causing you to see less and less green rarity items
-	 		 at higher levels
+  		  apparent (previously stopped at 50% of original value at level 80, now it's 10%, and 0% once you enter OP Levels), and
+		  also applies to Uncommon weight.
+			*this means that loot quality also now increases with level again, causing you to see less and less green rarity
+	 		 items at higher levels
 
 		- More of raid bosses' additional legendary drops now scale along with the legendary weight
 
-		- Internal bonuses from Delirium stacks has been reworked and rebalanced, now they work as such:
+		- Bonuses to loot quality from Delirium stacks has been reworked and rebalanced, now they work as such:
   			- -5% Uncommon weight
 			- +0.5% Rare weight
 			- +3% Very Rare weight
