@@ -46,20 +46,27 @@
 		- Base Rare Weight increased from 1 to 5
   		- Base Very Rare Weight increased from 0.25 to 0.75
 
-		- Modifier applied previously only to Very Common and Common weights to reduce their value at higher levels is now even more
-  		  apparent (previously stopped at 50% of original value at level 80, now it's 10%, and 0% once you enter OP Levels), and
-		  also applies to Uncommon weight.
+		- Modifier applied previously only to Very Common and Common weights to reduce their value at higher levels is now even
+  		  more apparent (previously stopped at 50% of original value at level 80, now it's 10%, and 0% once you enter OP Levels),
+		  and also applies to Uncommon weight.
 			*this means that loot quality also now increases with level again, causing you to see less and less green rarity
 	 		 items at higher levels
 
 		- More of raid bosses' additional legendary drops now scale along with the legendary weight
 
-		- Bonuses to loot quality from Delirium stacks has been reworked and rebalanced, now they work as such:
-  			- -5% Uncommon weight
+  
+  	- Delirium
+
+   		- Each Delirium stack now grants:
+			- +1.5 enemy Global Damage (Previously 3%)
+   			- +2% enemy Damage Reduction (Previously 3%)
+      			- +3% enemy Fire Rate (unchanged)
+	 		- +3% enemy Movement Speed (unchanged)
+      			- -5% Uncommon weight
 			- +0.5% Rare weight
 			- +3% Very Rare weight
    			- +2.5% Legendary weight
-  
+    
 
 	- Axton
 
