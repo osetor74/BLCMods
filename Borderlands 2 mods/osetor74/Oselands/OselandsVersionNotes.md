@@ -34,6 +34,12 @@
 		 the sights with an AR (for example) that has a sight part, you'll be moving about 70% quicker while aiming than
    		 before
 
+
+ 	- The point at which white items stop dropping has been moved from level 12 to 7.
+  		*The intention is so that once you beat Captain Flynt and make it off of the glacier, items you'll get for the rest
+    		 of the game will always be green rarity or higher.
+ 	
+
 	- Axton
 
  		- Grenadier
