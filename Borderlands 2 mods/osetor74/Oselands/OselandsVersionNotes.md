@@ -37,7 +37,8 @@
 
 	- Loot Changes
 
-	 	- The point at which white items stop dropping has been moved from level 12 to 6.
+	 	- The point at which white items stop dropping has been moved from level 12 to 7.
+		  This now also applies to items from vending machines.
 	  		*The intention is so that once you beat Captain Flynt and make it off of the glacier, items you'll get for the
 			rest of the game will always be green rarity or higher.
 
