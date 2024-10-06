@@ -22,7 +22,7 @@
 		- Each grenade now has a grenade cost associated with them, consuming multiple grenades from your pool.
 
 
- 	- Base player ground speed changed to 520, and sprinting multiplier to 1.2x (previously 440 and 1.2x respectively)
+ 	- Base player ground speed changed to 520, and sprinting multiplier to 1.2x (previously 440 and 1.3x respectively)
   		*In general you'll be moving quicker than before
 	- Speed penalties for aiming down guns has been reduced from the universal -200% to the following:
 		- Pistol with no sight: -65%
