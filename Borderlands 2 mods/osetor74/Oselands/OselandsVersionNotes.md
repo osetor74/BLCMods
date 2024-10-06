@@ -35,6 +35,12 @@
    		 before
 
 
+	- Increased all player characters' mass to 200, matching Krieg
+ 	- Increased momentum formula (basically knockback) of default grenade and Badaboom explosions by 35%
+		* The intention is to give all characters the benefit of Krieg's knockback resistance. The increased knockback
+		  returns default grenades and badaboom to a similar state as they were before this change, to not remove the
+		  ability to grenade and rocket jump respectively. This also means Krieg can now do it too!
+
 	- Loot Changes
 
 
